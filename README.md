@@ -1,5 +1,5 @@
 ```
-bash <(curl -s https://raw.githubusercontent.com/Gamerzhacker/hk-i10/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/iamdragonboy/CODE-X-VPS-MAKE-V2/main/install.sh)
 ```
 
 ** Made by I AM DRAGON_BOY
